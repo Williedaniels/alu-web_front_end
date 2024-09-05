@@ -1,3 +1,0 @@
-Responsive_design
-
-Advanced HTML
